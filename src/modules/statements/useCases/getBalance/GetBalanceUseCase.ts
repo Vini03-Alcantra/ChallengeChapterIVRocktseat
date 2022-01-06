@@ -38,4 +38,6 @@ export class GetBalanceUseCase {
 
     return balance as IResponse;
   }
+
+
 }
